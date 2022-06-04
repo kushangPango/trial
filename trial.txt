@@ -1,2 +1,2 @@
 Weather is good in aachen today.
-Line 2 added.
+Line 2 added. Line 2 changed.
